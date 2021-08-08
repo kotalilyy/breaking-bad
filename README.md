@@ -4,7 +4,7 @@ Use this app to search for Breaking Bad cast members. This app uses the [Breakin
 
 Click the picture below to see a gif of the live app.
 
-[![breakingbad](https://user-images.githubusercontent.com/77229281/128638044-9c5a11fd-8aee-4134-bb53-836ce70185da.png)](https://j.gifs.com/r22opw.gif)
+[![breakingbad](https://user-images.githubusercontent.com/77229281/128638044-9c5a11fd-8aee-4134-bb53-836ce70185da.png)](https://j.gifs.com/vQQvnm.gif)
 
 ## Contributions
 
