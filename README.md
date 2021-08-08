@@ -1,8 +1,10 @@
 # breaking-bad-api
 
-Use this app to search for Breaking Bad cast members. This app uses the [Breaking Bad Api](https://breakingbadapi.com/documentation)
+Use this app to search for Breaking Bad cast members. This app uses the [Breaking Bad Api](https://breakingbadapi.com/documentation).
 
-![breakingbad](https://user-images.githubusercontent.com/77229281/128638044-9c5a11fd-8aee-4134-bb53-836ce70185da.png)
+Click the picture below to see a gif of the live app.
+
+[![breakingbad](https://user-images.githubusercontent.com/77229281/128638044-9c5a11fd-8aee-4134-bb53-836ce70185da.png)](https://j.gifs.com/r22opw.gif)
 
 ## Contributions
 
