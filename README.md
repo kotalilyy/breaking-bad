@@ -1,6 +1,10 @@
 # breaking-bad-api
 
-This is a project that shows and filters the characters from the TV show Breaking bad.
+This is a project that showcases the characters from the TV show Breaking bad.
+
+Click the picture below to see a gif of the app.
+
+[![breakingbad](https://user-images.githubusercontent.com/77229281/128638044-9c5a11fd-8aee-4134-bb53-836ce70185da.png)](https://j.gifs.com/jYYKB5.gif)
 
 ## Usage
 
