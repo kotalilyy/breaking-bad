@@ -1,6 +1,8 @@
 # breaking-bad
 
-This app uses the [Breaking Bad Api](https://breakingbadapi.com/documentation).
+![heisenberg](https://user-images.githubusercontent.com/77229281/129708249-0ed47864-dc6a-4714-9198-840491d24c75.png)
+
+This app uses the [Breaking Bad Api](https://breakingbadapi.com/documentation)
 
 Click the picture below to see a gif of the live app.
 
