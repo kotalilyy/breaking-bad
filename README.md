@@ -10,7 +10,9 @@ Click the picture below to see a gif of the live app.
 
 ## Credits
 
-Create this app by following this [tutorial](https://www.youtube.com/watch?v=YaioUnMw0mo) by @[bradtraversy](https://github.com/bradtraversy)
+Create this app by clicking [here](https://www.youtube.com/watch?v=YaioUnMw0mo) 
+
+Thanks @[bradtraversy](https://github.com/bradtraversy)
 
 ## Contributions
 
